@@ -59,7 +59,7 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         username: root
         password: 123456
-        url: jdbc:mysql://58.87.86.122:3306/itest
+        url: jdbc:mysql://58.87.86.122:3306/itest02
         dbcp2:
           min-idle: 5
           initial-size: 5
